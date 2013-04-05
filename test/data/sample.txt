@@ -1,0 +1,17 @@
+  PID USERNAME  SIZE   RSS STATE  PRI NICE      TIME  CPU PROCESS/NLWP
+ 59980 node       30M   14M sleep   59    0   0:00:00 0.0% node/2
+ 16211 node       37M   18M sleep   59    0   0:02:34 0.0% node/4
+ 16019 netadm   4568K 1400K sleep   58    0   0:00:00 0.0% ipmgmtd/3
+ 16220 root     2160K  308K sleep   59    0   0:00:00 0.0% sac/1
+ 16229 root     2416K  340K sleep   59    0   0:00:00 0.0% ttymon/1
+ 16247 root     4184K 1852K sleep   59    0   0:00:00 0.0% syslogd/15
+ 16206 node      146M  123M sleep   59    0   0:24:45 0.0% node/7
+ 52888 node       72M   46M sleep   59    0   0:00:25 0.0% node/6
+ 11473 root     5508K 3052K sleep   59    0   0:00:00 0.0% sshd/1
+ 53369 node       50M   23M sleep   59    0   0:00:00 0.0% node/3
+ 15943 root       13M 8680K sleep   29    0   0:00:13 0.0% svc.configd/14
+ 16207 node     3180K    0K sleep   59    0   0:00:00 0.0% command.sh/1
+ 13734 root     5516K 3064K sleep   59    0   0:00:00 0.0% sshd/1
+ 16255 root     1940K    0K sleep   59    0   0:00:00 0.0% ttymon/1
+ 16013 root     3788K  780K sleep   59    0   0:00:00 0.0% svc-dlmgmtd/1
+Total: 36 processes, 137 lwps, load averages: 0.01, 0.02, 0.10

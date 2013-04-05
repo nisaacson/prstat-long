@@ -1,0 +1,104 @@
+         Address     Kbytes        RSS       Anon     Locked Mode   Mapped File
+0000000000400000       8256       6528          -          - r-x--  node
+0000000000C1F000         80         80          8          - rw---  node
+0000000000C33000         28         16          8          - rw---  node
+0000000000C3A000       6536       5076       1140          - rw---    [ heap ]
+0000091EC2E00000         20         20         20          - rw---    [ anon ]
+0000091EC2E06000        996        996        676          - rwx--    [ anon ]
+0000091EC2F00000         20         20          -          - rw---    [ anon ]
+0000091EC2F06000        996        164          -          - rwx--    [ anon ]
+0000091EC3100000         20         20          -          - rw---    [ anon ]
+0000091EC3106000        996        164          -          - rwx--    [ anon ]
+0000091EDDA00000         20         20         20          - rw---    [ anon ]
+0000091EDDA06000        996        996        996          - rwx--    [ anon ]
+0000091EDDB00000         20         20         20          - rw---    [ anon ]
+0000091EDDB06000        996        620        620          - rwx--    [ anon ]
+00000A4DAA7C0000        128        104         32          - rw---    [ anon ]
+0000188BAD8E1000       4096         12          8          - rw---    [ anon ]
+00001A48ED900000       1024        716        716          - rw---    [ anon ]
+00001A6983100000        148        148        136          - rw---    [ anon ]
+0000296F50B00000        532        532        268          - rw---    [ anon ]
+00002BC77B100000        212        212         32          - rw---    [ anon ]
+000030B1EEE00000       1024         20         20          - rw---    [ anon ]
+000030B1EEF00000       1024       1024       1024          - rw---    [ anon ]
+000030B1EFE00000       1024        560        560          - rw---    [ anon ]
+000030B1EFF00000       1024       1024       1024          - rw---    [ anon ]
+00003AC09F000000       1024       1024        668          - rw---    [ anon ]
+00003B5925E00000       1024       1024        280          - rw---    [ anon ]
+00003D4E98BB2000          4          4          4          - rw---    [ anon ]
+00003D4E98BB3000          4          4          4          - rw---    [ anon ]
+00003D4E98BB4000          8          8          8          - rw---    [ anon ]
+00003D4E98BB6000         16         16          8          - rw---    [ anon ]
+00003D4E98BBA000         32         16          -          - rw---    [ anon ]
+00003D4E98BC2000         64          -          -          - rw---    [ anon ]
+00003D4E98BD2000        128          -          -          - rw---    [ anon ]
+00003D4E98BF2000        256          -          -          - rw---    [ anon ]
+00003D4E98C32000        512          -          -          - rw---    [ anon ]
+00003D4E98CB2000       1024          -          -          - rw---    [ anon ]
+00003F30A4E00000        116         68         56          - rw---    [ anon ]
+00003F5ECA100000       1024        296        136          - rw---    [ anon ]
+FFFFFD7FF0B10000         20         20          -          - r-x--  weakref.node
+FFFFFD7FF0B24000          4          4          -          - rw---  weakref.node
+FFFFFD7FF4A60000       1044        584          -          - r-x--  libstdc++.so.6.0.17
+FFFFFD7FF4B74000         40         40          -          - rw---  libstdc++.so.6.0.17
+FFFFFD7FF4B7E000         84          8          -          - rw---  libstdc++.so.6.0.17
+FFFFFD7FF51B0000         92         64          -          - r-x--  libgcc_s.so.1
+FFFFFD7FF51D6000          4          4          -          - rw---  libgcc_s.so.1
+FFFFFD7FF51D7000          4          4          -          - rw---  libgcc_s.so.1
+FFFFFD7FFE4A0000          8          8          -          - r-x--  libkstat.so.1
+FFFFFD7FFE4B2000          4          4          -          - rw---  libkstat.so.1
+FFFFFD7FFE590000         64         64          -          - rwx--    [ anon ]
+FFFFFD7FFE79E000          4          4          4          - rw--R    [ stack tid=5 ]
+FFFFFD7FFE7A0000         64         64          8          - rwx--    [ anon ]
+FFFFFD7FFE9AE000          4          4          4          - rw--R    [ stack tid=2 ]
+FFFFFD7FFE9B0000         68         68          -          - r-x--  libsocket.so.1
+FFFFFD7FFE9D1000          4          4          -          - rw---  libsocket.so.1
+FFFFFD7FFEA3D000         12         12          -          - r-x--  libpthread.so.1
+FFFFFD7FFEB10000          4          4          -          - r-x--  libumem_trampoline.so.1
+FFFFFD7FFEB21000          4          4          -          - rw---  libumem_trampoline.so.1
+FFFFFD7FFEB30000          8          8          -          - rwx--  libumem_trampoline.so.1
+FFFFFD7FFEB40000        496        496          -          - r-x--  libumem.so.1
+FFFFFD7FFEBCC000        144        144          8          - rw---  libumem.so.1
+FFFFFD7FFEBF0000         44         44         20          - rw---  libumem.so.1
+FFFFFD7FFECC0000        560        560          -          - r-x--  libnsl.so.1
+FFFFFD7FFED5C000         12         12          4          - rw---  libnsl.so.1
+FFFFFD7FFED5F000         28         12          -          - rw---  libnsl.so.1
+FFFFFD7FFEEA0000        400        400          -          - r-x--  libm.so.2
+FFFFFD7FFEF13000         20         20          -          - rw---  libm.so.2
+FFFFFD7FFEFC0000          4          4          -          - r--s-  dev:537,251 ino:1111573274
+FFFFFD7FFF00D000          4          4          -          - rw--R    [ stack tid=4 ]
+FFFFFD7FFF04E000          4          4          -          - rw--R    [ stack tid=3 ]
+FFFFFD7FFF050000          4          4          -          - rwx--    [ anon ]
+FFFFFD7FFF060000          4          4          4          - rwx--    [ anon ]
+FFFFFD7FFF070000         64         64          4          - rw---    [ anon ]
+FFFFFD7FFF08F000        128        128         12          - rw---    [ anon ]
+FFFFFD7FFF0B0000          4          4          -          - r-x--    [ anon ]
+FFFFFD7FFF0C0000          4          4          -          - r-x--    [ anon ]
+FFFFFD7FFF0D0000          4          4          -          - r-x--    [ anon ]
+FFFFFD7FFF0E0000          4          4          -          - r-x--    [ anon ]
+FFFFFD7FFF0F0000          4          4          -          - r-x--    [ anon ]
+FFFFFD7FFF0FE000          4          4          -          - rwxs-    [ anon ]
+FFFFFD7FFF100000         24         12          4          - rwx--    [ anon ]
+FFFFFD7FFF110000          4          4          -          - rwx--    [ anon ]
+FFFFFD7FFF120000          4          4          4          - rwx--    [ anon ]
+FFFFFD7FFF130000       1584       1584          -          - r-x--  libc.so.1
+FFFFFD7FFF2CC000         52         52         12          - rw---  libc.so.1
+FFFFFD7FFF2D9000          8          8          4          - rw---  libc.so.1
+FFFFFD7FFF2E0000          4          4          4          - rwx--    [ anon ]
+FFFFFD7FFF2F0000          4          4          4          - rwx--    [ anon ]
+FFFFFD7FFF300000          4          4          4          - rwx--    [ anon ]
+FFFFFD7FFF310000          4          4          4          - rwx--    [ anon ]
+FFFFFD7FFF320000          4          4          4          - rwx--    [ anon ]
+FFFFFD7FFF330000          4          4          4          - rwx--    [ anon ]
+FFFFFD7FFF340000          4          4          4          - rwx--    [ anon ]
+FFFFFD7FFF350000          4          4          4          - rwx--    [ anon ]
+FFFFFD7FFF360000          4          4          4          - rwx--    [ anon ]
+FFFFFD7FFF370000          4          4          4          - rw---    [ anon ]
+FFFFFD7FFF380000          4          4          -          - rw---    [ anon ]
+FFFFFD7FFF390000          4          4          -          - rwx--    [ anon ]
+FFFFFD7FFF393000        348        348          -          - r-x--  ld.so.1
+FFFFFD7FFF3FA000         12         12          4          - rwx--  ld.so.1
+FFFFFD7FFF3FD000          8          8          -          - rwx--  ld.so.1
+FFFFFD7FFFDF9000         28         28         24          - rw---    [ stack ]
+---------------- ---------- ---------- ---------- ----------
+        total Kb      41052      26560       8652          -
