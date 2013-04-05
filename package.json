@@ -1,0 +1,25 @@
+{
+  "name": "prstat-long",
+  "version": "0.0.1",
+  "description": "Output the full command in the output of `prstat` on SmartOS",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "make test"
+  },
+  "repository": "",
+  "keywords": [
+    "smartos",
+    "prstart",
+    "memory",
+    "solaris"
+  ],
+  "author": "Noah Isaacson",
+  "license": "BSD",
+  "readmeFilename": "README.md",
+  "dependencies": {
+    "eyespect": "~0.1.8"
+  }
+}
